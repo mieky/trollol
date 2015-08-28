@@ -1,0 +1,27 @@
+{
+  "name": "trollol",
+  "version": "1.0.0",
+  "description": "printing out some trello summaries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mieky/trollol.git"
+  },
+  "author": "Mike Arvela <mike@arvela.net>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mieky/trollol/issues"
+  },
+  "homepage": "https://github.com/mieky/trollol",
+  "devDependencies": {
+    "babel": "^5.8.21"
+  },
+  "dependencies": {
+    "bluebird": "^2.9.34",
+    "lodash": "^3.10.1",
+    "node-fetch": "^1.3.2"
+  }
+}

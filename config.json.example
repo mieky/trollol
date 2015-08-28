@@ -1,0 +1,8 @@
+{
+    "boardId": "some_board_id",
+    "lists": {
+        "First list name": "some_list_id",
+        "Second list name": "some_list_id",
+        "Third list name": "some_list_id"
+    }
+}
